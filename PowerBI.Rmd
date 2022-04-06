@@ -1,0 +1,53 @@
+---
+title: "Intro to Power BI"
+author: "Raian Rith"
+date: "4/3/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Topics
+
+1. Intro to Power BI (Importance, Tools, Why Power BI?)
+2. Power BI Desktop (Download, Installation, UI)
+3. Power BI Charts (How to create reports on Power BI Desktop)
+4. Power BI KPI Indicators (Importance of KPI visualization, Visualizing growth)
+5. Power BI Dashboard (Interactive dashboards)
+6. Power BI vs Tableu ()
+7. Power BI Interview Questions
+
+## Intro to Power BI
+
+Why Power BI?
+
+Business Intelligence is a set of techniques and tools for the transformation of raw data into meaningful and useful information to take important useful decisions. Power BI can spot trends in real time to identify trends early. Power BI can automatically search hidden insights with quick insights (auto searching). Advanced analytics and custom visualizations in every way possible. POwer BI and Power BI Desktop is enterprise ready - One can securely connect to ones own on premises data sources. Through that on premises data gateway one can connect live to sql severs or other data sources. 
+
+What is Power BI?
+
+Power BI is a business analytic service provided by Microsoft that provides interactive visualizations with self service business intelligence capabilities. 
+
+![Power BI General Workflow.](/Users/rith/Desktop/1.png)
+
+# Key Benefits of Power BI
+
+1. Pre-buit dashboards and reports for popular SaaS (Software as a Service) Solutions.
+2. Real time dashboard updates
+3. Secure, live connection to your data sources on-premises and in the cloud
+4. Intuitive data exploration using natural language query
+5. Integrated with familiar Microsoft products to utilize commitment for scale. 
+6. Fast deployment
+
+# Components of Power BI
+
+1. Power Query (Component used to search and access and transform public and internal sources)
+2. Power Pivot (Data Modeling for in memory analytics. Enables import millions of rows of data from multiple data sources into a single Power BI workbook)
+3. Power View (Data visualization technology that creates charts, maps, graphs, other visuals)
+4. Power Map (Geographic, time-based, and temporal data visualization)
+5. Data Management Gateway (Connects on premise servers with Power BI cloud)
+6. Power BI Data Catalog 
+
+
+
